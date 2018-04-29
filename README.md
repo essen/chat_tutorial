@@ -1,3 +1,8 @@
+Old, unmaintained tutorial
+==========================
+
+Please use https://github.com/ninenines/cowboy/tree/master/examples/websocket instead.
+
 Cowboy websocket tutorial
 =========================
 
